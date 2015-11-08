@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<link href="/public/css/common.css" type="text/css" rel="stylesheet">
+		<script src="/public/js/common.js" type="text/javascript"></script>
 	</head>
 	<body>
 		<head></head>
